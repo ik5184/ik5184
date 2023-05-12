@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 📫 How to reach me **https://www.linkedin.com/in/iklash-khan-40b293239/**
+- 📫 How to reach me **khaniklash000@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
