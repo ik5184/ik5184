@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Iklash Khan</h1>
 <h3 align="center">Full Stack developer from India</h3>
-<[img src="https://www.google.com/search?tbm=isch&q=ibackground%20image&tbs=imgo:1#imgrc=LD4f5YDD5N9WxM" ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)>
+<[img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
