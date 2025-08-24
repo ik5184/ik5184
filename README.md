@@ -29,9 +29,6 @@
 
 </p> 
 
-You can paste this into your README or portfolio page to showcase your tech stack visually.
-
-Would you like help adding tooltips or labels to each icon for better accessibility?
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ik5184&show_icons=true&locale=en" alt="ik5184" /></p>
